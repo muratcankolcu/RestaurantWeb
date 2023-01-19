@@ -1,4 +1,4 @@
-Web Site with Angular
+Website with Angular
 
 ![1](https://user-images.githubusercontent.com/92145567/213021429-12c729c9-0149-4557-aa7b-0c02c12e565a.png)
 ![2](https://user-images.githubusercontent.com/92145567/213021492-d423b858-3793-47af-9c07-a3dd793aa0ca.png)
